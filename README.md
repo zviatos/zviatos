@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Developer.
 
-- Hobbies
+### Hobbies
 - In my free time, I love to hit the gym and stay active.
 - I also enjoy playing video games, both for fun and to unwind after a long day of coding.
 - I believe that a healthy balance between work and play is important for overall well-being and productivity.
