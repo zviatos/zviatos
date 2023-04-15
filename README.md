@@ -1,2 +1,2 @@
-![Metrics](/github-metrics.svg)
+![Metrics](/isocalendar.svg)
 
