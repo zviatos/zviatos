@@ -38,6 +38,6 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_user: ssviatos
+          plugin_leetcode_user: ssviatos 4c7C9A5cdn8PhuQ
           plugin_leetcode_sections: solved, skills, recent
 
