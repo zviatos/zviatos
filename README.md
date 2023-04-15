@@ -4,6 +4,7 @@
       <img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
       <img align="left" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400">
       <img align="left" src="/metrics.plugin.pagespeed.svg" alt="Metrics" width="400">
+      <img align="right" src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="400">
       <img width="900" height="1" alt="">
     </td>
   </tr>
