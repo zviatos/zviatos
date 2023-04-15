@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.isocalendar.svg)
 # Hi there, I'm Sviatoslav Syniuk
 
 ## I'm a Full-Stack Developer.
