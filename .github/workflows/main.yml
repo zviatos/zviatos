@@ -58,6 +58,15 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          
+      - name: Screenshot
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.screenshot.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://zviatos.github.io/
 
 
