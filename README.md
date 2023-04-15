@@ -1,3 +1,4 @@
+![Metrics](/github-metrics.svg)
 # Hi there, I'm Sviatoslav Syniuk
 
 ## I'm a Full-Stack Developer.
